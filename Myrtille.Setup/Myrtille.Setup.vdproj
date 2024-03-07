@@ -45,13 +45,31 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1633353F81B51442A4B028842CE4511A"
+        "OwnerKey" = "8:_2962DF9BA68741C882FDCACDCA47A812"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_20DF5B0EB37BCBAC64614169E0F0A857"
         "OwnerKey" = "8:_653D6FBBA167416D9037981F1E63EC6A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_23CCF415B02F4553A7123CDB3D667AAD"
+        "MsmKey" = "8:_27BA01F5AE39149D55D8D2FCA3D587FB"
+        "OwnerKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2962DF9BA68741C882FDCACDCA47A812"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -123,8 +141,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_413D5D325A914A1EA808FB18A43DB672"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_3739ABADBD058323A43D1194236AEADF"
+        "OwnerKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -165,6 +183,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_48428BBFD3594D4996DB56B42B7B66BA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_4C1C75940E694E2D986E018CFB89863C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -172,7 +196,19 @@
         "Entry"
         {
         "MsmKey" = "8:_4CBE1133656C16FA14B34697CB4F39F9"
-        "OwnerKey" = "8:_CD6C4277B75E4EDBA7F95BB7A0B451EF"
+        "OwnerKey" = "8:_2962DF9BA68741C882FDCACDCA47A812"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4CBE1133656C16FA14B34697CB4F39F9"
+        "OwnerKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4CBE1133656C16FA14B34697CB4F39F9"
+        "OwnerKey" = "8:_48428BBFD3594D4996DB56B42B7B66BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -448,7 +484,13 @@
         "Entry"
         {
         "MsmKey" = "8:_8633D28F2AD5692F33300A2CAF307B8C"
-        "OwnerKey" = "8:_CD6C4277B75E4EDBA7F95BB7A0B451EF"
+        "OwnerKey" = "8:_48428BBFD3594D4996DB56B42B7B66BA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8633D28F2AD5692F33300A2CAF307B8C"
+        "OwnerKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -484,12 +526,6 @@
         "Entry"
         {
         "MsmKey" = "8:_9186723DB4B94643BE0E7976C34CADE0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_990D3B13F25D442BBE6AFF9FA98FD85A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -544,6 +580,12 @@
         "Entry"
         {
         "MsmKey" = "8:_AE0BA4806C1E4C3DB030DA3E5F6380E1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AE80218777FE40AB9789EB7BD7701A1E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -609,8 +651,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_CD6C4277B75E4EDBA7F95BB7A0B451EF"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_CD350BF2C82A8B0AC6C4616D8567FAA7"
+        "OwnerKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -683,6 +725,12 @@
         {
         "MsmKey" = "8:_E54B03E5E31F47E5BF1FCA6BED901337"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E550460ED4FCA51BA406D9BF30F17D03"
+        "OwnerKey" = "8:_11AD5E6B60A04DF38FAF72A17255687B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1355,6 +1403,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1633353F81B51442A4B028842CE4511A"
+            {
+            "SourcePath" = "8:libcrypto-1_1.dll"
+            "TargetName" = "8:libcrypto-1_1.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_20DF5B0EB37BCBAC64614169E0F0A857"
             {
             "AssemblyRegister" = "3:1"
@@ -1370,6 +1438,26 @@
                 }
             "SourcePath" = "8:System.Web.Http.WebHost.dll"
             "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_27BA01F5AE39149D55D8D2FCA3D587FB"
+            {
+            "SourcePath" = "8:freerdp-client2.dll"
+            "TargetName" = "8:freerdp-client2.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
             "Condition" = "8:"
@@ -1432,6 +1520,26 @@
                 }
             "SourcePath" = "8:Owin.dll"
             "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3739ABADBD058323A43D1194236AEADF"
+            {
+            "SourcePath" = "8:credui.dll"
+            "TargetName" = "8:credui.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
             "Condition" = "8:"
@@ -2517,6 +2625,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD350BF2C82A8B0AC6C4616D8567FAA7"
+            {
+            "SourcePath" = "8:MSIMG32.dll"
+            "TargetName" = "8:MSIMG32.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CE11E3435BC8004942E19063D8E0B02A"
             {
             "AssemblyRegister" = "3:1"
@@ -2699,6 +2827,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E550460ED4FCA51BA406D9BF30F17D03"
+            {
+            "SourcePath" = "8:gdiplus.dll"
+            "TargetName" = "8:gdiplus.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E873CD23DD2246C7A8E17E123C84C035"
@@ -4601,35 +4749,7 @@
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_23CCF415B02F4553A7123CDB3D667AAD"
-            {
-            "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\freerdp2.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{472C8207-2FE5-3BB4-9C52-52A09968E6A4}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_413D5D325A914A1EA808FB18A43DB672"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_11AD5E6B60A04DF38FAF72A17255687B"
             {
             "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\wfreerdp-client.dll"
             "TargetName" = "8:"
@@ -4651,7 +4771,63 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{2B76225C-3ADF-322E-AAC9-C8AAE7820A9C}"
+            "OutputProjectGuid" = "8:{AA214DDA-2107-3C64-BC62-2F1D831821C6}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2962DF9BA68741C882FDCACDCA47A812"
+            {
+            "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\winpr-tools2.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{F8EF84B0-BECE-3406-9B41-89A2065D0CE9}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_48428BBFD3594D4996DB56B42B7B66BA"
+            {
+            "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\freerdp-client2.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{5CDCE2C3-8773-3346-82E3-449B7176D2E4}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
@@ -4825,9 +5001,9 @@
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_990D3B13F25D442BBE6AFF9FA98FD85A"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AE80218777FE40AB9789EB7BD7701A1E"
             {
-            "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\winpr-tools2.dll"
+            "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\freerdp2.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
@@ -4847,35 +5023,7 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{64238C75-C18D-315A-A8F3-EA74FC761AEC}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_CD6C4277B75E4EDBA7F95BB7A0B451EF"
-            {
-            "SourcePath" = "8:..\\Myrtille.RDP\\FreeRDP\\out\\build\\Release\\freerdp-client2.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_FA146EB9AE2B44E2AB4B01E26999CAB2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{E2720E7F-3DE0-37DE-A47D-C5008CA770E4}"
+            "OutputProjectGuid" = "8:{5A34800F-B47C-3675-967F-E39500917C2D}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
